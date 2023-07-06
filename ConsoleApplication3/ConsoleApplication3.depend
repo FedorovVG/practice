@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1688671044 source:c:\users\user\desktop\КГУ\Практика\consoleapplication3\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<algorithm>
+	"histogram.h"
+
+1688665181 c:\users\user\desktop\КГУ\Практика\consoleapplication3\histogram.h
+	<vector>
+
+1688665041 c:\users\user\desktop\КГУ\Практика\consoleapplication3\histogram.cpp
+	"histogram.h"
+
+1688668442 source:c:\users\user\desktop\КГУ\Практика\consoleapplication3\histogram.cpp
+	"histogram.h"
+	<algorithm>
+	<vector>
+	<iostream>
+
